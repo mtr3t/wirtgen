@@ -1,7 +1,7 @@
 
 # Setting up the project or getting a clone
 
-### `https://github.com/mtr3t/wirtgen.git`
+### `git clone https://github.com/mtr3t/wirtgen.git`
 
 
 
