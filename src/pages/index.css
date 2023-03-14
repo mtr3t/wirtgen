@@ -1,0 +1,12 @@
+.home{
+  display: flex;
+  justify-content: center; /* Centering Horizantly */
+  align-items: center; /* Centering Vertically */
+}
+.welcome{
+  align-items: center;
+  color: Gray;
+  font-weight: 900px;
+  padding: 300px 100px;
+  font-size: 800%;
+}

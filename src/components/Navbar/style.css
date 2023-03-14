@@ -1,0 +1,19 @@
+.Navs{
+    align-items: center;
+    flex: auto;
+    position: relative;
+    display: flex;
+    justify-content: center; /* Centering Horizantly */
+    align-items: center; /* Centering Vertically */
+}
+.tile{
+    background-color: darkgrey;
+    border: 10px solid black;
+    width: auto;
+    text-shadow:
+   -1px -1px 0 #000,  
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+     1px 1px 0 #000;
+  
+}

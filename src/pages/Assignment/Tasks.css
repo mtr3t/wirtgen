@@ -1,0 +1,39 @@
+.container {
+    display: flex;
+    height: 100vh;
+    width: 200vh;
+    justify-content: center;
+    align-items: center;
+}
+
+.length{
+    width: 1000px;
+}
+
+.item{
+    background-color: gray;
+    margin-bottom: 5px;
+    padding: 10px 20px;
+
+}
+
+.title{
+    color: Black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.task{
+    color: white;
+    max-height: 0;
+    overflow: hidden;
+    transition: all 0.1s cubic-bezier(0,1,0,1);
+}
+
+.task.show{
+    color : white;
+    height: auto;
+    max-height: 9999px;
+    transition: all 0.1s cubic-bezier(1,0,1,0);
+}
