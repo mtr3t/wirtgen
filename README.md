@@ -1,3 +1,10 @@
+
+# Setting up the project or getting a clone
+
+### `https://github.com/mtr3t/wirtgen.git`
+
+
+
 ## Run frontend and backend
 
 To run the frontend (react) go into the wirtgen folder
